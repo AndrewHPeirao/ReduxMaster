@@ -1,0 +1,15 @@
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\obj\Debug\net9.0\ReduxMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\obj\Debug\net9.0\ReduxMaster.AssemblyInfoInputs.cache
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\obj\Debug\net9.0\ReduxMaster.AssemblyInfo.cs
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\obj\Debug\net9.0\ReduxMaster.csproj.CoreCompileInputs.cache
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\obj\Debug\net9.0\ReduxMaster.sourcelink.json
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\bin\Debug\net9.0\ReduxMaster.exe
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\bin\Debug\net9.0\ReduxMaster.deps.json
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\bin\Debug\net9.0\ReduxMaster.runtimeconfig.json
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\bin\Debug\net9.0\ReduxMaster.dll
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\bin\Debug\net9.0\ReduxMaster.pdb
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\obj\Debug\net9.0\ReduxMaster.dll
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\obj\Debug\net9.0\refint\ReduxMaster.dll
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\obj\Debug\net9.0\ReduxMaster.pdb
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\obj\Debug\net9.0\ReduxMaster.genruntimeconfig.cache
+C:\Users\andrew63512336\Documents\projetos\ReduxMaster\obj\Debug\net9.0\ref\ReduxMaster.dll
